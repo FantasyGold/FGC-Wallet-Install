@@ -90,5 +90,6 @@ Goto 'Receive' tab on the wallet.
 Enter a label you will use for receiving your coins, no quantity entry is required.
 Click 'Request Payment'
 You will be displayed your recieving address, send your coins to this address.
+Standard transactions require 6 confirmations before available.
 
 # Congrats, you now have FGC in your wallet.
