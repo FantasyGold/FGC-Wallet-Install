@@ -1,4 +1,4 @@
-# FGC-Wallet-Install
+# WINDOWS: FGC-Wallet-Install
 How to Install and Configure the FGC Wallet. (required for both standalone wallet and masternode wallet)
 
 # Download & Install the Wallet
@@ -93,3 +93,12 @@ You will be displayed your recieving address, send your coins to this address.
 Standard transactions require 6 confirmations before available.
 
 # Congrats, you now have FGC in your wallet.
+
+# MAC: FGC-Wallet-Install
+
+*pending completion.. anyone want to help?
+
+
+# LINUX: FGC-Wallet-Install
+Please just add the fantasygold.conf text with addnodes to your local linux .conf.
+(if your using linux am sure you know what your doing ;)
