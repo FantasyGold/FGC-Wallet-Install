@@ -96,8 +96,10 @@ Standard transactions require 6 confirmations before available.
 
 # MAC: FGC-Wallet-Install
 
-*pending completion.. anyone want to help?
-
+Press Command+Space to open Spotlight, write ~/Library/Application Support/FantasyGold and press Enter.
+Open fantasygold.conf
+Paste in the same conf text from the windows section above.
+Save, restart wallet, sync should work.
 
 # LINUX: FGC-Wallet-Install
 Please just add the fantasygold.conf text with addnodes to your local linux .conf.
